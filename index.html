@@ -1,0 +1,18 @@
+---
+title: Lillian Pontius-Goldblatt, Brand Strategist
+layout: default
+---
+<h1 class="text-center">Projects</h1>
+
+<div class="card-columns mt-5" id="project-cards">
+  {% for project in site.projects %}
+    <div class="card">
+      <a href="{{ project.url }}">
+        <img class="card-img" src="/assets/images/{{ project.cover_image }}" alt="Image from {{ project.title }}">
+        <div class="card-img-overlay">
+          <h2 class="card-title text-center">{{ project.title }}</h2>
+        </div>
+      </a>
+    </div><!-- .card -->
+  {% endfor %}
+</div>
