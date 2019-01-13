@@ -20,11 +20,15 @@ body {
     font-size: 1rem;
   }
 }
-#project-cards {
-  column-gap: 3rem;
-}
-#project-cards .card {
-  margin-bottom: 3rem;
+@media (min-width: 768px) {
+  #project-cards {
+    column-gap: 3rem;
+    -webkit-column-gap: 3rem;
+    -moz-column-gap: 3rem;
+  }
+  #project-cards .card {
+    margin-bottom: 3rem;
+  }
 }
 #project-cards .card-img-overlay {
   display: flex;
@@ -39,6 +43,35 @@ body {
   font-size: 2.5rem;
   margin: auto;
   color: #fff;
+}
+@media (min-width: 576px) {
+  #project-cards .card-img-overlay {
+    padding: .75rem;
+  }
+  #project-cards .card-img-overlay .card-title {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width: 768px) {
+  #project-cards .card-img-overlay {
+    padding: 1rem;
+  }
+  #project-cards .card-img-overlay .card-title {
+    font-size: 1.5rem;
+  }
+}
+@media (min-width: 992px) {
+  #project-cards .card-img-overlay .card-title {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 1200px) {
+  #project-cards .card-img-overlay {
+    padding: 1.25rem;
+  }
+  #project-cards .card-img-overlay .card-title {
+    font-size: 2.5rem;
+  }
 }
 #work-samples .card {
   margin-bottom: 2rem;
