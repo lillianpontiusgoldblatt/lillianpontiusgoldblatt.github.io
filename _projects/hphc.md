@@ -20,7 +20,7 @@ There are many writers at Harvard Pilgrim. Marketers, sales teams, plan speciali
 **Custom Photo Library**
 Harvard Pilgrim wanted to create a custom photo library to use across their materials. With community and inclusion being central to the HPHC brand we developed a narrative consisting of six interconnected families that created a diverse and dynamic community of characters that would be unique to Harvard Pilgrim and come to be representatives of the HPHC community in the minds of their customers, employees and broker. We art directed these images in studio and location shoots across the Boston area. These images have been used across HPHC created materials and by advertising partner, Hill Holiday.
 
-![image](/assets/images/HPHCimage1.png)
+![image](/assets/images/HPHCimage1.jpg)
 ![image](/assets/images/HPHCimage2.png)
 ![image](/assets/images/HPHCimage3.png)
 ![image](/assets/images/HPHCimage4.png)
