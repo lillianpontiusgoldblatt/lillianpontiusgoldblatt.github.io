@@ -22,12 +22,12 @@ A foundational component of this project was engaging the board of directors wit
 
 ![image](/assets/images/EHHWorkshop.png)
 
-**Identity**
+**Identity**  
 Under creative director [Kimiyo Nakatsui](https://www.linkedin.com/in/kimiyo-nakatsui-8011b469/) and senior designer [Jaime Patino-Calvo](https://www.linkedin.com/in/jaime-patino-calvo-a6434952/), we delivered a design system that both spoke to the strategic needs of the organization and its new positioning and beautifully evoked Edward Hopper’s legacy.
 
 ![image](/assets/images/EHHlogos.png)
 
-**Activation Ideation**
+**Activation Ideation**  
 As an extension of the platform and identity we developed a set of activation concepts for the organization. These ranged from easy and affordable executions to experimental community engagements.
 
 ![image](/assets/images/EHHcolorbanner.png)
