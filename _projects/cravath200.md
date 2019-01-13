@@ -1,7 +1,7 @@
 ---
 layout: project
 title: A Big Anniversary
-cover_image: cravath200.gif
+cover_image: Cravath200.gif
 project-details:
   - 'Client: Cravath, Swaine & Moore'
   - 'Agency: Carbone Smolan Agency'
