@@ -6,7 +6,7 @@ project-details:
   - 'Client: Cravath, Swaine & Moore'
   - 'Agency: Carbone Smolan Agency'
   - 'Role: Content Strategist'
-  - 'Methodologies: Content Audit,'
+  - 'Methodologies: Content Audit'
   - 'Launch: Winter 2019'
 
 ---
