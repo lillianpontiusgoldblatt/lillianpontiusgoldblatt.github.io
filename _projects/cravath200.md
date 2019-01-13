@@ -18,6 +18,6 @@ Cravath, Swaine & Moore is one of America's oldest and most prestigious law firm
 **Content Strategy**  
 
 
-![image](/assets/images/cravatherapage.gif)
+![image](/assets/images/CravathErapage.gif)
 
 **2019 Activation**
