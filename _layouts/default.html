@@ -1,6 +1,16 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="h-100">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132340338-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-132340338-1');
+    </script>
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,7 +21,7 @@
 
     <title>{{ page.title }}</title>
   </head>
-  <body id="default">
+  <body class="d-flex flex-column h-100" id="default">
     <header>
       <nav class="navbar navbar-expand-sm navbar-light bg-white mt-4 mt-lg-5">
         <div class="container">
@@ -33,9 +43,26 @@
       </nav>
       </div>
     </header>
-    <main class="container mt-lg-5 mt-md-4 mt-3 mb-5">
+    <main class="container mt-lg-5 mt-md-4 mt-3 mb-5 flex-shrink-0">
       {{ content }}
     </main>
+
+    <footer class="footer mt-auto py-3">
+      <div class="container">
+        <ul class="list-inline text-center">
+          <li class="list-inline-item">
+            <a class="text-muted" href="mailto:lillianpontiusgoldblatt@gmail.com">
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="text-muted" href="www.linkedin.com/in/lillianpontiusgoldblatt">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
