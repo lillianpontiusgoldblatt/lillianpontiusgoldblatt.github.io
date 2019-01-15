@@ -28,4 +28,4 @@ We were asked to create a campaign to support Latham's 2018 on campus recruiting
 
 ### Kirkland Ellis
 **Pitch Deck**  
-In the fall of 2018, Kirkland launch a new website with a refreshed brand. To help activate the new system internally they asked CSA to design a unified and sophisticated new template for the pitch decks their business development teams use across the globe. Through a thorough materials audit and extensive international stakeholder interviews we created a beautifula and high functioning tool to make life just a little bit easier for these hard working teams.
+In the fall of 2018, Kirkland launch a new website with a refreshed brand. To help activate the new system internally they asked CSA to design a unified and sophisticated new template for the pitch decks their business development teams use across the globe. Through a thorough materials audit and extensive international stakeholder interviews we created a beautiful and high functioning tool to make life just a little bit easier for these hard working teams.
