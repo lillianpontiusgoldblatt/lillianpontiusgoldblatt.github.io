@@ -8,7 +8,7 @@ project-details:
 
 ---
 ## The Challenge
-On Christmas day 2017, year my husband and I saw Phantom Thread on 70mm here in New York. It was a magical experience and has inspired us to rewatch, chronologically, all of Paul Thomas Anderson’s feature films. As we watch the films I wrote about each of them. There are not recaps or academic analysis, just trying to understand what the films have in common, how they fit together and what I can learn about story from a master storyteller. Below are links to each piece and excerpts I'm particularly proud of.
+On Christmas day 2017, my husband and I saw Phantom Thread on 70mm here in New York. It was a magical experience and inspired us to rewatch, chronologically, all of Paul Thomas Anderson’s feature films. As we watched I wrote about each of them. These are not recaps or academic analysis, just trying to understand what the films have in common, how they fit together and what I can learn about story from a master storyteller. Below are links to each piece and excerpts I'm particularly proud of.
 
 ## The Films
 **[Hard Eight and Boogie Nights](https://medium.com/@lillianpontiusgoldblatt/following-the-thread-c4e2c453df7)**  
