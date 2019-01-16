@@ -3,7 +3,7 @@ layout: about
 title: About
 image: Lilly_0988.jpg
 ---
-Lillian Pontius-Goldblatt is a senior brand strategist at Carbone Smolan Agency where she leads brand projects for corporate and cultural clients, as well as the agency's trend reporting practice. Her brand work aims to unite how organizations operate with how they exist in and respond to the real world. Cutting her teeth in nonprofit and startup organizations, Lillian grounds her work in mission and builds practical solutions for brand and communication challenges.
+Lillian Pontius-Goldblatt is a senior brand strategist at Carbone Smolan Agency where she leads brand projects for corporate and cultural clients, as well as the agency's trend reporting practice. Her brand work aims to unite how organizations operate with how they exist in and respond to the real world. Cutting her teeth in nonprofit and startup organizations, Lillian grounds her work in mission and builds practical solutions for brand and communication challenges. [Download a full resume.](/assets/LPGResume.pdf)
 
 Want to collaborate? Email me at [lillianpontiusgoldblatt@gmail.com](mailto:lillianpontiusgoldblatt@gmail.com)
 

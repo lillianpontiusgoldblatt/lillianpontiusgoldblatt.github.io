@@ -23,7 +23,7 @@ A foundational component of this project was engaging the board of directors wit
 ![image](/assets/images/EHHWorkshop.png)
 
 **Identity**  
-Under creative director [Kimiyo Nakatsui](https://www.linkedin.com/in/kimiyo-nakatsui-8011b469/) and senior designer [Jaime Patino-Calvo](https://www.linkedin.com/in/jaime-patino-calvo-a6434952/), we delivered a design system that both spoke to the strategic needs of the organization and its new positioning and beautifully evoked Edward Hopper’s legacy.
+Under creative director [Kimiyo Nakatsui](https://www.linkedin.com/in/kimiyo-nakatsui-8011b469/){:target="\_blank" rel="noopener"} and senior designer [Jaime Patino-Calvo](https://www.linkedin.com/in/jaime-patino-calvo-a6434952/), we delivered a design system that both spoke to the strategic needs of the organization and its new positioning and beautifully evoked Edward Hopper’s legacy.
 
 ![image](/assets/images/EHHlogos.png)
 

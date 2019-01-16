@@ -21,7 +21,7 @@ CSA and Dale Carnegie leadership saw the 2018 international convention as an opp
 ![image](/assets/images/DCsocial.png)
 ![image](/assets/images/DCselfie.png)
 
-In addition this this workshop, Design Director [Daniel Irizarry](http://www.irizarrydaniel.com/) lead the creation of video assets to bring the convention to life, including a brand video that a franchisee I ran into at the hotel bar told me needed to be a super bowl ad.
+In addition this this workshop, Design Director [Daniel Irizarry](http://www.irizarrydaniel.com/) lead the creation of video assets to bring the convention to life, including a [brand video](https://youtu.be/wPP1gqUqRA4) that a franchisee I ran into at the hotel bar told me needed to be a super bowl ad.
 
 **Messaging Workbook**  
 Working closely with the Dale Carnegie leadership team we developed a workbook as a takeaway and reference tool for both key brand messages and new messaging on delivering an effective elevator pitch. The process of developing this workbook lead to the content and structure of the workshop and several additional projects to be completed in 2019.

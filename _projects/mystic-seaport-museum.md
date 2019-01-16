@@ -12,7 +12,7 @@ project-details:
 
 ---
 ## The Challenge
-Mystic Seaport, the Museum of America and the Sea, opened a new exhibition hall in 2016, an exciting new chapter in the Museum’s transition from quaint New England history local to a national platform for public dialog about maritime history and the issues facing the ocean today. They asked us to guide them to a contemporary brand expression to match this new organizational strategy.
+Mystic Seaport, the Museum of America and the Sea, opened a new exhibition hall in 2016, an exciting new chapter in the Museum’s transition from quaint New England history locale to a national platform for public dialog about maritime history and the issues facing the ocean today. They asked us to guide them to a contemporary brand expression to match this new organizational strategy.
 
 My role as strategy lead on this project entailed shepherding our client and internal teams through the multiphase strategy portion of the project.
 
@@ -39,7 +39,7 @@ Museum websites are notoriously complex. Often built in layers to serve visitor,
 [![image](/assets/images/MSMwebsite.png)](www.mysticseaport.org)
 
 **Launch**  
-With the Museum team, CSA coordinated three stages of this launch and rollout. For a museum of the size and history of Mystic Seaport Museum, it was vital to include the museum community in the rollout. We created and lead presentations for the staff and volunteers, hosting Q & A sessions to address concerns and future plans for the brand. After the brand was introduced internally there was a public launch, hosted by museum leadership, to unveil new signage to the local press, such as [The Day](https://www.theday.com/article/20180501/NWS01/180509989). From here the press was engaged to present the new brand and organizational strategy to the community and beyond.  
+With the Museum leadership, CSA coordinated three stages of this launch and rollout. For a museum of the size and history of Mystic Seaport Museum, it was vital to include the museum community in the rollout. We created and lead presentations for the staff and volunteers, hosting Q & A sessions to address concerns and future plans for the brand. After the brand was introduced internally there was a public launch, hosted by museum leadership, to unveil new signage to the local press, such as [The Day](https://www.theday.com/article/20180501/NWS01/180509989). From here the press was engaged to present the new brand and organizational strategy to the community and beyond.  
 
 ![image](/assets/images/MSMLaunch.png)
 

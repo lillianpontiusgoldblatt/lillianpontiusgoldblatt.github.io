@@ -14,7 +14,7 @@ project-details:
 ## The Challenge
 Wafra is a financial services firm wholly owned by the Social Security Administration of Kuwait. The firm operates as an international investment platform for this sovereign wealth fund, with $23.1 billion assets under management. Wafra came to CSA for a new brand identity with a particular question in the back of their minds. How loudly or softly should this new brand amplify Wafra’s connection to Kuwait?
 
-My role on this project was to design and asses the naming assessment, define the brand platform and ensure strategic alignment through the identity design process.
+My role on this project was to design and deploy the naming assessment, define the brand platform and ensure strategic alignment through the identity design process.
 
 
 ## The Tasks
@@ -24,7 +24,7 @@ The name Wafra caused some consternation at the firm. Often mispronounced, with 
 ![image](/assets/images/WafraNotional.png)
 
 **Brand Platform**  
-After a robust discovery process including including stakeholder interviews, brand, materials, competitors and peer audits we delivered an insights report and workshop. Activities around personas, values and brand platform we defined a creative brief.
+After a robust discovery process including including stakeholder interviews, brand, materials, competitors and peer audits we delivered an insights report and workshop. Activities around personas, values and brand platform guided us to a creative brief as we moved into design.
 
 **Identity**  
 From this brief a design team lead by Daniel Irizarry created and engaging and modern identity built on the Wafra’s values of collaboration, innovation, heritage and stability.
