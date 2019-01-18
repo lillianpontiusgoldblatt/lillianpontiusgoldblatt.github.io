@@ -16,15 +16,9 @@ Carbone Smolan Agency has a long history of serving the legal industry. The agen
 **Women of Cahill Book**  
 To support Cahill's Women's Initiatives Committee I developed a theme and content strategy for a book celebrating Cahill's women leaders.
 
-![image](/assets/images/cahillwomen.png)
-
-
 ### Latham & Watkins
 **Recruiting Campaign**
 We were asked to create a campaign to support Latham's 2018 on campus recruiting efforts During this project I learned a great deal about this vital component of the hiring cycle at Latham and in the industry broadly through recent recruit, HR leadership and partner interviews. This campaign connects to Latham's existing materials through content and stands out from the crowd in a dense and often homogenous landscape.
-
-![image](/assets/images/lathamrecruiting.png)
-
 
 ### Kirkland Ellis
 **Pitch Deck**  
