@@ -4,7 +4,7 @@ title: Childhood Home of an American Icon
 cover_image: EHHcover.png
 project-details:
   - 'Client: Edward Hopper House Museum and Study Center'
-  - 'Agency: [Carbone Smolan Agency](https://www.carbonesmolan.com/work/hopper-house.html)'
+  - 'Agency: Carbone Smolan Agency'
   - 'Role: Strategist'
   - 'Methodologies: Stakeholder Interviews, Desk Research, Competitive Audit, Workshop'
   - 'Launch: Spring 2017'
