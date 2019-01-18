@@ -11,7 +11,7 @@ project-details:
 
 ---
 ## The Challenge
-In 2016, Harvard Pilgrim Health Care was coming off of a few hard years. Financial losses, leadership transitions and a drop in service reviews. The company’s new CMO was looking for help, not only in refreshing the design system, but in finding ways to help his department work better for the organization. In this ongoing relationship, we partner with internal teams to roll out initiatives across the organization.
+In 2016, Harvard Pilgrim Health Care’s new CMO was looking for help, not only in refreshing the organization's design system, but in finding ways to help his department work better for the organization. In this ongoing relationship, we partner with internal teams to roll out initiatives across the organization.
 
 ## The Tasks
 **Brand Messaging**  
