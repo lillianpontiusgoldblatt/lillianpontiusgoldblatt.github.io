@@ -2,4 +2,4 @@ name: Lillian Pontius-Goldblatt
 mardown: kramdown
 collections:
   projects:
-    output: true
+    output: false
