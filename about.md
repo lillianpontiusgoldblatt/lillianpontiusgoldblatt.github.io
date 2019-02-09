@@ -8,7 +8,7 @@ Lillian Pontius-Goldblatt is a senior strategist and brand storyteller at Carbon
 Want to collaborate? Email me at [lillianpontiusgoldblatt@gmail.com](mailto:lillianpontiusgoldblatt@gmail.com)
 
 ## Career Highlights
-- Studied fiction writing in college, a degree that has proven it's to be surprisingly useful in professional life.
+- Studied fiction writing in college, a degree that has proven itself to be surprisingly useful in professional life.
 - Ran youth programs in nonprofits for seven years. Everyone should spend time working with children at some point. It teaches resolve, humility, fortitude and grit. It also trains you to present without fear and not to get squeamish answering hard questions.
 - Worked full-time while completing NYU Stern’s part-time MBA program to better understand how organizations create impact, grow sustainably and communicate their value.
 - Did a little bit of everything at a medtech startup working to democratize vision care; from finance to HR to marketing and beyond. Here, launched a brand strategy task force to help define core values and the promise we made customers. It was this task force and a NYU capstone brand strategy class with a CSA designer that lead to Carbone Smolan Agency.
