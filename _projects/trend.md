@@ -22,5 +22,8 @@ The next logical step was to participate. In 2018 we were accepted to present a 
 
 Our workshop filled up almost immediately and SXSW asked us to offer an encore. I was immensely impressed with the enthusiasm of our attendees, engaging with the materials and with each other. 
 
+After the workshop I recieved some very nice feedback.
+
 ![image](/assets/images/Ind1.png)
+
 ![image](/assets/images/Ind2.png)
