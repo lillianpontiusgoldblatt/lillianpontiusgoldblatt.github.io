@@ -1,12 +1,14 @@
 ---
 layout: project
-title: Now Trending
-cover_image: TrendCover.png
+title: An Off-Broadway Legend
+cover_image: rrs.jpg
 project-details:
   - 'Role: Speaker'
   - 'Launch: Ongoing'
 
 ---
+
+
 ## Trend Reporting  
 Trend reporting has been a great platform for speaking and thought leadership.
 
