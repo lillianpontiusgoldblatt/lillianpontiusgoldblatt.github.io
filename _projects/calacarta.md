@@ -25,11 +25,11 @@ This story needed to live at the intersection of culture, history and luxury; re
 **Naming**  
 Building on this story we generated hundreds of names and then I lead a collaborative vetting and selection process to select Calacarta.  
 
+![image](/assets/images/Calalogo.png)
+
 _Cala_ means Cove in Spanish, referencing the private beach among dreamy mangroves on site.  
 
 _Carta_ means Letters or Map in Spanish, a reference to Cartagena's literary history and the spirit of exploration.  
-
-![image](/assets/images/Calalogo.png)
 
 **Brand Book**  
 Tactically, this project was aimed at helping our clients secure investment and development partners. To this end, we developed a beautiful and inspirational brand book to drive engagement. I'm pleased to report that the last I heard the project was moving along quickly, as I look forward to an excuse to visit Cartagena again.
