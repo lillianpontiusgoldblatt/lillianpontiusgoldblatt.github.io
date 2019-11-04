@@ -5,7 +5,7 @@ cover_image: HPHCcover.png
 project-details:
   - 'Client: Harvard Pilgrim Health Care'
   - 'Agency: Carbone Smolan Agency'
-  - 'Role: Strategist/Senior Strategist'
+  - 'Role: Senior Strategist'
   - 'Methodologies: Stakeholder Interviews, Materials Audits, Desk Research, Competitive Audits,  Workshops'
   - 'Launch: Spring 2018'
 

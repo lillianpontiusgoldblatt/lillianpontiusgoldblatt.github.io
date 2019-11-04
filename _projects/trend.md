@@ -22,6 +22,8 @@ The next logical step was to participate. In 2018 we were accepted to present a 
 We got some great feed back:
 ![image](/assets/images/Ind1.png)
 
+![image](/assets/images/Ind2.png)
+
 #### Radical Research Summit
 This past September I has the opportunity to present this work again, with a twist. The Radical Research Summit is an annual conference in Vancouver for UX researchers. Together with experience strategist [Kate Watson](https://www.linkedin.com/in/hikatewatson/), this talk transformed to address the needs of UX designers and researchers for finding new methodologies to understand and respond to their users and make their products great.
 

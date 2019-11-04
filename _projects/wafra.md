@@ -8,14 +8,12 @@ project-details:
   - 'Role: Strategist'
   - 'Methodologies: Stakeholder Interviews, Desk Research, Competitive Audit, Workshop'
   - 'Launch: Spring 2017'
-  -
 
 ---
 ## The Challenge
 Wafra is a financial services firm wholly owned by the Social Security Administration of Kuwait. The firm operates as an international investment platform for this sovereign wealth fund, with $23.1 billion assets under management. Wafra came to CSA for a new brand identity with a particular question in the back of their minds. How loudly or softly should this new brand amplify Wafra’s connection to Kuwait?
 
 My role on this project was to design and deploy the naming assessment, define the brand platform and ensure strategic alignment through the identity design process.
-
 
 ## The Tasks
 **Naming Assessment**  
