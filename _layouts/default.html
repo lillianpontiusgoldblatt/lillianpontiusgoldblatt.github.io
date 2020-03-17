@@ -1,76 +1,83 @@
 <!doctype html>
 <html lang="en" class="h-100">
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132340338-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
 
-      gtag('config', 'UA-132340338-1');
-    </script>
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132340338-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {% if page.name == 'index.html' %}
-    <meta name="description" content="Lillian Pontius-Goldblatt is a senior strategist and brand storyteller at Carbone Smolan Agency where she leads brand projects for corporate and cultural clients, as well as the agency's trend reporting practice. Her brand work aims to unite how organizations operate with how they exist in and respond to the real world."/>
-    {% endif %}
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/style.css">
+    gtag('config', 'UA-132340338-1');
+  </script>
 
-    <title>{{ page.title }}</title>
-  </head>
-  <body class="d-flex flex-column h-100" id="default">
-    <header>
-      <nav class="navbar navbar-expand-sm navbar-light bg-white mt-4 mt-lg-5">
-        <div class="container">
-          <a class="navbar-brand" href="/">
-            Lillian Pontius-Goldblatt
-            <br>
-            <span class="text-muted">Brand Strategist</span>
-          </a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-sm-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="/about">About</a>
-              </li>
-            </ul>
-          </div>
-      </nav>
-      </div>
-    </header>
-    <main class="container mt-lg-5 mt-md-4 mt-3 mb-5 flex-shrink-0">
-      {{ content }}
-    </main>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {% if page.name == 'index.html' %}
+  <meta name="description"
+    content="Lillian Pontius-Goldblatt is a senior strategist and brand storyteller at Carbone Smolan Agency where she leads brand projects for corporate and cultural clients, as well as the agency's trend reporting practice. Her brand work aims to unite how organizations operate with how they exist in and respond to the real world." />
+  {% endif %}
 
-    <footer class="footer mt-auto py-3">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <title>{{ page.title }}</title>
+</head>
+
+<body class="d-flex flex-column h-100" id="default">
+  <header>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white mt-4 mt-lg-5">
       <div class="container">
-        <ul class="list-inline text-center">
-          <li class="list-inline-item">
-            <a class="text-muted" href="mailto:lillianpontiusgoldblatt@gmail.com">
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-          <li class="list-inline-item">
-            <a class="text-muted" href="https://www.linkedin.com/in/lillianpontiusgoldblatt">
-              <i class="fab fa-linkedin"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </footer>
+        <a class="navbar-brand" href="/">
+          Lillian Pontius-Goldblatt
+          <br>
+          <span class="text-muted">Strategy Director</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-sm-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/about">About</a>
+            </li>
+          </ul>
+        </div>
+    </nav>
+    </div>
+  </header>
+  <main class="container mt-lg-5 mt-md-4 mt-3 mb-5 flex-shrink-0">
+    {{ content }}
+  </main>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-  </body>
+  <footer class="footer mt-auto py-3">
+    <div class="container">
+      <ul class="list-inline text-center">
+        <li class="list-inline-item">
+          <a class="text-muted" href="mailto:lillianpontiusgoldblatt@gmail.com">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a class="text-muted" href="https://www.linkedin.com/in/lillianpontiusgoldblatt">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
 </html>
